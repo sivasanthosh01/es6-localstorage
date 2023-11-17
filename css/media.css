@@ -1,0 +1,108 @@
+/* login page */
+
+/* for mobile */
+@media(min-width:320px){
+
+    .login{
+        width:80%;
+    
+    }
+    .box1{
+        width:80%;
+	    height:30px;
+    }
+    .email input{
+        padding:5px 10px;
+    }
+    .email-icon{
+        width:50px;
+        height:30px;
+    }
+    .box2{
+        width:80%;
+	    height:30px;
+    }
+    .password input{
+        padding:5px 10px;
+    }
+    .lock-icon{
+        width:50px;
+        height:30px;
+    }
+    .forgot{
+        padding-left:80px;
+    }
+
+
+
+}
+
+/* for ipad */
+@media(min-width:700px){
+
+    .login{
+        width:90%;
+    }
+    .box1{
+        width:50%;
+	    height:50px;
+    }
+    .email input{
+        padding:10px 30px;
+    }
+    .email-icon{
+        width:50px;
+        height:50px;
+    }
+    .box2{
+        width:50%;
+	    height:50px;
+    }
+    .password input{
+        padding:10px 30px;
+    }
+    .lock-icon{
+        width:50px;
+        height:50px;
+    }
+    .forgot{
+        padding-left:180px;
+    }
+
+    
+}
+
+/* for laptop */
+@media(min-width:960px){
+
+    .login{
+        width:50%;
+    }
+    .box1{
+        width:50%;
+	    height:50px;
+    }
+    .email input{
+        padding:10px 30px;
+    }
+    .email-icon{
+        width:50px;
+        height:50px;
+    }
+    .box2{
+        width:50%;
+	    height:50px;
+    }
+    .password input{
+        padding:10px 30px;
+    }
+    .lock-icon{
+        width:50px;
+        height:50px;
+    }
+    .forgot{
+        padding-left:180px;
+    }
+
+    
+}

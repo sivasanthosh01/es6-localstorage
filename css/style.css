@@ -1,0 +1,129 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+#instasec{
+	width:100%;
+	background-color:slategray;
+	height:100vh;
+	
+}	
+.container{
+	width:90%;
+	margin:auto;
+	padding-top:100px;
+	
+
+}
+.login{
+	/* width:50%; */
+	margin:0 auto;
+	text-align:center;	
+
+	border:1px solid cadetblue;
+	padding-bottom:40px;
+	padding-top:20px;
+	background-color:rgb(68, 54, 54);
+}
+.container h1{
+	padding-bottom:30px;
+	font-size:40px;
+	color:white;
+}
+.box1{
+	display:flex;
+	justify-content:center;
+	/* width:50%;
+	height:50px; */
+	margin:auto;
+	text-align:center;
+	margin-bottom:10px;
+	background-color:#c2bfb8;
+	border-radius:5px;
+}
+
+.email input{
+	/* padding:10px 30px; */
+	border:none;
+	background-color:#c2bfb8;
+	margin:5px;
+	
+}
+.email-icon{
+	/* width:50px;
+	height:50px; */
+	/* background-color:pink; */
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	border-right:1px solid green;
+	color:#96948d;
+	margin-right:0px;
+}
+.box2{
+	display:flex;
+	justify-content:center;
+	padding:px 60px;
+	background-color:#c2bfb8;
+	
+	/* width:50%;
+	height:50px; */
+	margin:auto;
+	text-align:center;
+	border-radius:5px;
+}
+.password input{
+	/* padding:10px 30px; */
+	border:none;
+	background-color:#c2bfb8;
+	margin:5px;
+
+
+}
+
+.lock-icon{
+	/* width:50px; */
+	/* height:50px; */
+	/* background-color:pink; */
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	border-right:1px solid green;
+	color:#96948d;
+	
+}
+.forgot{
+	/* padding-left:180px; */
+	padding-top:5px;
+}
+.forgot a{
+	text-decoration:none;
+	color:royalblue;
+}
+
+.loginbtn{
+	padding-top:20px;
+}
+.loginbtn button{
+	padding:10px 40px;
+	background-color:aliceblue;
+	border-radius:10px;
+}
+.loginbtn button a{
+	text-decoration: none;
+	font-size:20px;
+	color:#6b6b67;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight: 700;
+	
+}
+
+.signup{
+	padding-top:5px;
+	color:white;
+}
+.signup a{
+	text-decoration:none;
+	color:royalblue;
+}
